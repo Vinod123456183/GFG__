@@ -1,0 +1,6 @@
+Given a dictionary of words and a pattern. Every character in the pattern is uniquely mapped to a character in the dictionary. Find all such words in the dictionary that match the given pattern. 
+
+Examples :
+Input: n = 4, dict[] = {abb,abc,xyz,xyy}, pattern  = foo
+Output: abb xyy
+Explanation: xyy and abb have the same character at index 1 and 2 like the pattern.
